@@ -1,6 +1,6 @@
 ### Hi, I'm Karl 👋
 
-Software engineer at Bounteous, working across the full stack — from enterprise systems to modern web and data tooling.
+Software engineer and Engineering Manager at Bounteous, working across the full stack — from enterprise systems to modern web and data tooling.
 
 **What I do**
 - Build and maintain enterprise applications (Java, Grails, .NET, NATURAL) alongside modern stacks (Python, nodeJS, Angular)
